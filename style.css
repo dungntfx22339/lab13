@@ -1,0 +1,21 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./img/slide1.jpg");
+  width: 100%;
+  height: 600px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./img/Slide2.jpg");
+  width: 100%;
+  height: 600px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./img/slide3.jpg");
+  width: 100%;
+  height: 600px;
+}
